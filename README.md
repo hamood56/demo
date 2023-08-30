@@ -1,4 +1,4 @@
 # demo
-first repository
+this is my first repository.
 <br>
-author: <h1>hamood umar</h1>
+Author: <h1><b>Hamood Umar</b></h1>
